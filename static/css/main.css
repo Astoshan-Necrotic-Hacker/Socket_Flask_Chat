@@ -1,0 +1,19 @@
+body{
+	background-color: black;
+	color: white;
+}
+.center{
+	text-align: center;
+	float:center;
+}
+
+.bottom-left{
+	text-align:left;
+	float: bottom;
+	position: relative;
+}
+.bottom {
+	position:relative;
+	bottom:0;
+	left:0;
+}
